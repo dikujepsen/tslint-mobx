@@ -1,8 +1,8 @@
 {
-  "name": "tslint-mobx",
+  "name": "tslint-mobx-react",
   "version": "1.0.6",
   "description": "",
-  "main": "tslint-mobx.json",
+  "main": "tslint-mobx-react.json",
   "scripts": {
     "test": "jest",
     "build": "tsc",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eranshabi/tslint-mobx.git"
+    "url": "git+https://github.com/dikujepsen/tslint-mobx.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eranshabi/tslint-mobx/issues"
+    "url": "https://github.com/dikujepsen/tslint-mobx/issues"
   },
-  "homepage": "https://github.com/eranshabi/tslint-mobx#readme",
+  "homepage": "https://github.com/dikujepsen/tslint-mobx#readme",
   "files": [
     "dist/src"
   ],

@@ -1,8 +1,0 @@
-{
-  "rules":
-  {
-    "mobx-react-no-unused-inject": true,
-    "mobx-react-no-empty-inject": true
-  },
-  "rulesDirectory": "dist/src"
-}
